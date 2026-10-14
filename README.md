@@ -1,6 +1,6 @@
 ### OOP Calculator for Programming 1
 
-![Calculator](assets/calculator_screenshot.png))
+![Calculator](images/Calculator01.png)
 
 # The Calc
 
