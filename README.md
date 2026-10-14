@@ -2,7 +2,7 @@
 
 ![Calculator](images/Calculator01.png)
 
-[Download / View Calculator Folder](src/Calculator)
+[Link to source code](https://github.com/421248-tech/CompProg/tree/main/src/Calculator)
 
 # The Calc
 
